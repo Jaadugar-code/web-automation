@@ -1,4 +1,7 @@
 hi guys i am jaadugar this is to inform you about necessary changes you need to make while using my script 
+
+
+
 prerequirements:
 1 there should be only mcq ,linear scale quiestion in your form if not transform them 
 2 you need to collect only emails in your form
